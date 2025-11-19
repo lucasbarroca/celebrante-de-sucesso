@@ -79,6 +79,15 @@
   filter: drop-shadow(-12px -20px 15px white);
 }
 
+.img-bolt {
+  max-height: 50px;
+  margin-right: 14px;
+}
+
+.countdown {
+  font-size: 2rem;
+}
+
 /* section 2 */
 .square {
   width: 90%;
@@ -93,6 +102,7 @@
   align-items: center;
   justify-content: flex-start;
   padding-top: 3%;
+  padding-bottom: 3%;
 }
 
 @media (max-width: 768px) {
@@ -129,6 +139,12 @@
 .logo-price {
   max-width: 56%;
   height: auto;
+}
+
+.number-old-price {
+  font-size: 2.3rem;
+  color: #ee0404;
+  text-align: center;
 }
 
 .number-price {
