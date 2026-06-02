@@ -327,20 +327,20 @@ body {
 }
 
 .number-old-price {
-  font-size: 2.3rem;
+  font-size: 2rem !important;
   color: #ee0404;
   text-align: center;
 }
 
 .number-price {
-  font-size: 2.3rem;
+  font-size: 2rem !important;
   color: #64DB2D;
   text-align: center;
   text-shadow: 0 0 20px rgba(100, 219, 45, 0.2);
 }
 
 .number-price2 {
-  font-size: 1.4rem;
+  font-size: 1.4rem !important;
   color: #ffffff;
   text-align: center;
   opacity: 0.8;
