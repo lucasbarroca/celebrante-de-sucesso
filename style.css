@@ -841,7 +841,7 @@ footer {
 @media (max-width: 768px) {
   .square {
     width: 100%;
-    max-width: 280px;
+    max-width: 320px;
     padding: 15px;
   }
 
@@ -1023,7 +1023,7 @@ footer {
   }
 
   .square {
-    max-width: 260px;
+    max-width: 320px;
   }
 
   .footer-content h3 {
